@@ -1,6 +1,0 @@
-Pistolet - 0$
-Sniper - 100$
-Magnum - 200$
-SniperV2 - 300$
-AK47 - 50$
-Uzi - 50$
